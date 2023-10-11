@@ -1,0 +1,1001 @@
+marital_status,gender,Wallet,occupation,age
+Married,Female,$86.85,Civil Engineer,23
+Married,Male,$11.38,Engineer,48
+Single,Male,$45.60,Engineer,83
+Married,Male,$72.71,Engineer,19
+Single,Female,$15.66,Civil Engineer,22
+Married,Female,$90.44,Software Developer,32
+Married,Male,$73.69,Software Developer,36
+Married,Female,$0.86,Mechanical Engineer,85
+Single,Female,$24.09,Civil Engineer,49
+Married,Male,$99.50,Mechanical Engineer,73
+Married,Female,$65.58,Civil Engineer,25
+Single,Female,$53.06,Civil Engineer,43
+Married,Male,$76.72,Software Developer,50
+Married,Male,$51.65,Engineer,63
+Single,Female,$3.38,Civil Engineer,62
+Married,Male,$14.54,Mechanical Engineer,36
+Married,Female,$95.32,Civil Engineer,22
+Single,Male,$92.84,Software Developer,20
+Married,Male,$63.27,Mechanical Engineer,64
+Married,Male,$7.60,Civil Engineer,30
+Single,Male,$54.91,Software Developer,85
+Married,Female,$33.39,Software Developer,24
+Single,Male,$66.04,Mechanical Engineer,47
+Single,Male,$69.45,Civil Engineer,75
+Single,Female,$15.78,Software Developer,28
+Single,Male,$13.97,Engineer,70
+Married,Male,$22.46,Software Developer,64
+Married,Female,$35.11,Software Developer,48
+Single,Male,$73.97,Engineer,81
+Single,Female,$6.36,Software Developer,58
+Married,Male,$87.78,Civil Engineer,25
+Married,Female,$59.82,Software Developer,55
+Married,Female,$79.19,Mechanical Engineer,63
+Single,Male,$85.34,Civil Engineer,77
+Single,Female,$39.35,Civil Engineer,58
+Single,Male,$52.99,Civil Engineer,69
+Single,Female,$92.99,Engineer,28
+Single,Male,$14.87,Software Developer,68
+Married,Female,$86.09,Software Developer,80
+Single,Female,$18.13,Engineer,18
+Single,Female,$27.49,Mechanical Engineer,72
+Married,Male,$44.62,Mechanical Engineer,46
+Single,Female,$16.08,Engineer,76
+Married,Female,$67.46,Software Developer,34
+Married,Male,$84.80,Software Developer,25
+Single,Female,$55.86,Software Developer,34
+Married,Male,$76.11,Software Developer,74
+Married,Female,$37.93,Mechanical Engineer,59
+Married,Female,$17.23,Engineer,47
+Married,Female,$63.68,Engineer,57
+Single,Female,$78.20,Mechanical Engineer,63
+Married,Female,$60.01,Mechanical Engineer,71
+Single,Male,$96.57,Software Developer,84
+Single,Male,$86.73,Engineer,34
+Single,Female,$43.45,Civil Engineer,58
+Married,Male,$99.87,Engineer,59
+Single,Male,$26.91,Mechanical Engineer,71
+Married,Female,$40.32,Mechanical Engineer,63
+Married,Female,$57.58,Mechanical Engineer,48
+Single,Male,$30.47,Civil Engineer,53
+Married,Female,$91.33,Mechanical Engineer,69
+Married,Male,$33.17,Civil Engineer,28
+Married,Male,$45.12,Civil Engineer,56
+Married,Male,$35.33,Software Developer,85
+Single,Male,$53.43,Engineer,26
+Married,Male,$45.66,Mechanical Engineer,74
+Single,Male,$53.76,Engineer,58
+Married,Male,$58.76,Engineer,36
+Married,Male,$14.12,Software Developer,40
+Single,Female,$27.64,Engineer,53
+Single,Male,$56.53,Civil Engineer,37
+Married,Female,$28.08,Mechanical Engineer,62
+Married,Male,$44.35,Mechanical Engineer,20
+Married,Female,$25.18,Mechanical Engineer,22
+Married,Male,$56.85,Engineer,50
+Single,Male,$63.52,Software Developer,27
+Single,Male,$85.66,Engineer,48
+Married,Male,$30.06,Civil Engineer,24
+Single,Female,$10.24,Mechanical Engineer,21
+Married,Female,$37.84,Mechanical Engineer,67
+Single,Female,$11.01,Software Developer,29
+Single,Female,$2.07,Civil Engineer,75
+Married,Female,$58.12,Software Developer,70
+Single,Male,$57.37,Civil Engineer,55
+Single,Male,$26.50,Software Developer,39
+Single,Male,$48.88,Software Developer,48
+Married,Male,$7.63,Software Developer,77
+Married,Male,$70.77,Mechanical Engineer,74
+Married,Male,$5.33,Mechanical Engineer,43
+Married,Male,$95.40,Civil Engineer,18
+Single,Male,$12.10,Civil Engineer,66
+Single,Male,$67.05,Engineer,47
+Married,Female,$98.55,Mechanical Engineer,69
+Single,Female,$36.19,Civil Engineer,63
+Married,Male,$33.39,Mechanical Engineer,83
+Married,Male,$62.65,Engineer,72
+Single,Male,$86.14,Software Developer,50
+Married,Female,$88.92,Software Developer,27
+Single,Female,$90.62,Civil Engineer,61
+Single,Female,$70.27,Software Developer,23
+Single,Female,$18.91,Civil Engineer,27
+Married,Female,$77.08,Mechanical Engineer,47
+Married,Female,$94.61,Software Developer,62
+Single,Male,$75.59,Civil Engineer,68
+Single,Female,$56.74,Mechanical Engineer,30
+Married,Female,$52.36,Engineer,62
+Married,Male,$30.68,Mechanical Engineer,61
+Single,Male,$0.17,Civil Engineer,24
+Married,Female,$68.70,Engineer,34
+Single,Female,$57.28,Software Developer,25
+Married,Female,$87.11,Mechanical Engineer,27
+Married,Female,$25.17,Software Developer,70
+Married,Male,$17.36,Engineer,56
+Married,Male,$86.97,Mechanical Engineer,49
+Single,Male,$57.97,Civil Engineer,23
+Single,Female,$73.42,Software Developer,54
+Married,Male,$87.23,Civil Engineer,30
+Married,Female,$77.42,Civil Engineer,36
+Married,Female,$68.13,Engineer,51
+Married,Male,$39.77,Software Developer,59
+Single,Female,$28.27,Civil Engineer,38
+Single,Male,$80.37,Civil Engineer,80
+Married,Male,$13.76,Mechanical Engineer,33
+Married,Female,$8.28,Software Developer,66
+Married,Male,$13.42,Software Developer,46
+Single,Female,$50.93,Engineer,53
+Single,Male,$48.79,Software Developer,82
+Married,Female,$5.87,Engineer,45
+Married,Male,$38.79,Mechanical Engineer,47
+Married,Female,$28.50,Mechanical Engineer,36
+Single,Female,$45.89,Engineer,36
+Married,Male,$74.21,Software Developer,51
+Married,Female,$51.01,Engineer,48
+Single,Male,$64.72,Engineer,75
+Single,Female,$42.48,Engineer,48
+Single,Female,$38.13,Civil Engineer,44
+Married,Female,$57.03,Mechanical Engineer,52
+Married,Male,$31.14,Civil Engineer,59
+Married,Male,$95.17,Software Developer,20
+Single,Female,$40.37,Software Developer,53
+Single,Male,$91.61,Mechanical Engineer,76
+Single,Female,$30.99,Civil Engineer,75
+Married,Female,$63.60,Software Developer,26
+Married,Female,$85.72,Engineer,47
+Single,Male,$72.40,Engineer,55
+Single,Male,$67.97,Mechanical Engineer,58
+Married,Male,$4.10,Engineer,33
+Married,Male,$81.89,Civil Engineer,38
+Single,Female,$36.10,Engineer,63
+Married,Male,$30.62,Civil Engineer,73
+Single,Male,$78.89,Mechanical Engineer,69
+Married,Male,$62.90,Engineer,51
+Single,Male,$42.56,Civil Engineer,82
+Married,Female,$75.82,Mechanical Engineer,46
+Single,Female,$30.72,Civil Engineer,61
+Married,Female,$39.07,Engineer,61
+Single,Female,$25.84,Mechanical Engineer,62
+Married,Female,$3.04,Civil Engineer,78
+Married,Male,$40.70,Engineer,60
+Married,Female,$72.72,Engineer,59
+Married,Male,$64.79,Mechanical Engineer,60
+Married,Female,$7.17,Software Developer,43
+Married,Male,$46.32,Engineer,72
+Married,Male,$64.93,Civil Engineer,73
+Married,Female,$54.30,Software Developer,37
+Single,Female,$95.75,Engineer,32
+Married,Male,$9.67,Engineer,36
+Single,Female,$61.40,Engineer,65
+Married,Male,$64.66,Software Developer,30
+Single,Male,$46.56,Civil Engineer,54
+Single,Male,$15.39,Mechanical Engineer,47
+Married,Female,$12.72,Civil Engineer,38
+Married,Female,$72.44,Civil Engineer,21
+Single,Female,$49.64,Civil Engineer,69
+Married,Female,$45.82,Software Developer,47
+Married,Female,$32.54,Civil Engineer,22
+Single,Female,$25.47,Engineer,57
+Single,Female,$59.64,Software Developer,65
+Single,Female,$9.72,Engineer,39
+Married,Female,$99.55,Civil Engineer,55
+Married,Female,$64.56,Civil Engineer,46
+Single,Male,$50.05,Civil Engineer,46
+Single,Male,$27.57,Civil Engineer,78
+Single,Male,$2.00,Software Developer,81
+Single,Male,$15.14,Software Developer,35
+Married,Male,$13.69,Mechanical Engineer,49
+Single,Male,$45.51,Mechanical Engineer,28
+Single,Male,$49.22,Civil Engineer,43
+Married,Male,$71.46,Engineer,64
+Single,Male,$35.94,Software Developer,60
+Single,Female,$50.41,Mechanical Engineer,77
+Single,Male,$95.75,Software Developer,52
+Married,Female,$31.06,Mechanical Engineer,28
+Married,Female,$97.04,Mechanical Engineer,42
+Married,Female,$47.70,Civil Engineer,21
+Single,Female,$95.54,Civil Engineer,55
+Single,Female,$93.97,Engineer,22
+Single,Female,$42.52,Software Developer,33
+Married,Female,$7.06,Software Developer,51
+Single,Male,$78.90,Mechanical Engineer,37
+Single,Male,$93.95,Software Developer,19
+Married,Female,$18.17,Civil Engineer,59
+Married,Male,$49.72,Mechanical Engineer,79
+Married,Female,$77.63,Engineer,59
+Single,Female,$61.10,Civil Engineer,65
+Single,Male,$96.15,Civil Engineer,26
+Married,Male,$99.35,Software Developer,27
+Married,Female,$86.31,Civil Engineer,59
+Single,Male,$43.87,Software Developer,48
+Single,Male,$3.51,Software Developer,38
+Married,Female,$55.86,Engineer,35
+Single,Male,$96.87,Civil Engineer,73
+Married,Male,$66.89,Engineer,21
+Single,Female,$79.82,Engineer,43
+Single,Male,$40.28,Mechanical Engineer,37
+Single,Male,$94.14,Engineer,21
+Married,Male,$16.98,Engineer,44
+Single,Male,$98.36,Software Developer,35
+Single,Female,$49.58,Mechanical Engineer,25
+Single,Female,$82.67,Civil Engineer,44
+Married,Female,$31.50,Mechanical Engineer,74
+Married,Female,$99.59,Engineer,46
+Single,Male,$91.29,Civil Engineer,57
+Married,Male,$9.01,Engineer,78
+Married,Male,$41.23,Civil Engineer,73
+Single,Female,$99.87,Engineer,22
+Single,Male,$29.15,Civil Engineer,42
+Single,Female,$50.82,Civil Engineer,45
+Single,Male,$37.18,Software Developer,59
+Married,Female,$21.40,Mechanical Engineer,80
+Single,Female,$55.52,Mechanical Engineer,67
+Single,Female,$77.63,Engineer,35
+Single,Female,$73.81,Mechanical Engineer,41
+Single,Female,$29.06,Mechanical Engineer,74
+Married,Female,$63.34,Engineer,83
+Married,Male,$57.75,Mechanical Engineer,63
+Single,Female,$95.41,Civil Engineer,65
+Married,Female,$69.09,Mechanical Engineer,38
+Married,Male,$53.80,Civil Engineer,77
+Married,Male,$54.33,Engineer,52
+Married,Female,$50.46,Software Developer,36
+Married,Female,$66.07,Mechanical Engineer,33
+Married,Female,$42.86,Mechanical Engineer,54
+Single,Male,$84.36,Mechanical Engineer,61
+Married,Male,$21.31,Engineer,70
+Single,Male,$8.79,Engineer,28
+Single,Female,$43.94,Mechanical Engineer,24
+Married,Female,$86.50,Civil Engineer,54
+Married,Female,$86.30,Mechanical Engineer,57
+Single,Male,$77.48,Software Developer,84
+Married,Female,$18.87,Civil Engineer,71
+Single,Male,$62.82,Engineer,44
+Single,Male,$50.38,Civil Engineer,55
+Single,Male,$46.23,Engineer,72
+Single,Male,$41.52,Engineer,20
+Married,Female,$62.58,Civil Engineer,50
+Married,Male,$32.77,Engineer,33
+Married,Male,$44.53,Mechanical Engineer,46
+Married,Male,$66.69,Civil Engineer,34
+Single,Female,$46.67,Engineer,69
+Single,Female,$1.87,Civil Engineer,27
+Single,Female,$78.69,Civil Engineer,73
+Married,Male,$87.64,Civil Engineer,78
+Single,Female,$18.64,Civil Engineer,75
+Single,Female,$9.79,Civil Engineer,48
+Married,Female,$2.96,Civil Engineer,21
+Married,Female,$78.00,Engineer,74
+Single,Male,$78.91,Civil Engineer,45
+Single,Male,$12.44,Engineer,83
+Single,Male,$27.94,Engineer,60
+Married,Male,$68.19,Civil Engineer,25
+Married,Female,$56.38,Engineer,18
+Single,Male,$51.44,Civil Engineer,43
+Single,Female,$49.86,Software Developer,54
+Single,Female,$5.41,Mechanical Engineer,47
+Married,Female,$41.11,Software Developer,33
+Married,Female,$37.23,Software Developer,40
+Married,Female,$75.36,Civil Engineer,81
+Single,Male,$75.34,Software Developer,83
+Single,Female,$21.01,Engineer,76
+Married,Male,$90.83,Civil Engineer,28
+Married,Male,$40.43,Software Developer,62
+Single,Female,$17.13,Mechanical Engineer,27
+Married,Female,$65.02,Civil Engineer,33
+Single,Male,$81.47,Mechanical Engineer,18
+Married,Male,$11.11,Software Developer,70
+Single,Female,$12.61,Civil Engineer,68
+Married,Female,$91.53,Engineer,75
+Single,Male,$3.80,Mechanical Engineer,69
+Single,Male,$22.58,Mechanical Engineer,76
+Single,Female,$12.62,Civil Engineer,25
+Single,Male,$40.11,Software Developer,48
+Married,Male,$31.61,Engineer,59
+Single,Male,$74.53,Civil Engineer,31
+Married,Female,$7.50,Software Developer,23
+Single,Female,$98.57,Civil Engineer,42
+Married,Male,$72.52,Civil Engineer,32
+Married,Male,$30.87,Engineer,48
+Married,Female,$69.71,Civil Engineer,43
+Single,Male,$81.79,Software Developer,47
+Married,Male,$65.09,Mechanical Engineer,52
+Married,Male,$5.29,Software Developer,39
+Single,Female,$50.58,Mechanical Engineer,59
+Married,Male,$39.01,Software Developer,77
+Married,Female,$58.40,Mechanical Engineer,42
+Single,Female,$62.86,Engineer,80
+Married,Female,$6.73,Mechanical Engineer,60
+Single,Male,$91.58,Civil Engineer,60
+Single,Male,$68.58,Mechanical Engineer,66
+Single,Male,$87.89,Mechanical Engineer,71
+Married,Female,$49.17,Mechanical Engineer,55
+Single,Male,$37.97,Mechanical Engineer,56
+Married,Male,$84.77,Software Developer,75
+Married,Male,$46.08,Mechanical Engineer,64
+Married,Male,$75.71,Civil Engineer,64
+Married,Male,$25.48,Engineer,78
+Married,Male,$84.70,Software Developer,82
+Single,Male,$59.89,Civil Engineer,75
+Married,Female,$99.29,Software Developer,68
+Married,Female,$82.10,Software Developer,49
+Married,Male,$12.06,Engineer,79
+Single,Female,$75.82,Engineer,18
+Married,Male,$81.68,Software Developer,62
+Married,Male,$6.97,Civil Engineer,61
+Single,Female,$27.63,Software Developer,31
+Married,Male,$91.09,Civil Engineer,70
+Single,Male,$66.55,Engineer,73
+Single,Female,$52.84,Civil Engineer,62
+Married,Female,$78.16,Mechanical Engineer,51
+Single,Female,$16.36,Software Developer,45
+Single,Female,$83.52,Software Developer,61
+Married,Female,$21.62,Software Developer,28
+Married,Female,$50.32,Civil Engineer,23
+Single,Male,$17.71,Mechanical Engineer,78
+Single,Female,$7.29,Mechanical Engineer,20
+Single,Male,$65.39,Civil Engineer,75
+Single,Female,$97.73,Engineer,65
+Single,Male,$22.91,Software Developer,33
+Single,Female,$14.58,Civil Engineer,68
+Single,Male,$60.63,Engineer,58
+Married,Male,$84.19,Civil Engineer,66
+Single,Female,$30.51,Mechanical Engineer,39
+Married,Male,$85.55,Engineer,67
+Married,Male,$41.77,Civil Engineer,42
+Married,Female,$40.01,Software Developer,64
+Single,Female,$86.18,Software Developer,29
+Married,Male,$90.40,Mechanical Engineer,74
+Married,Female,$58.52,Engineer,85
+Single,Female,$1.28,Engineer,50
+Married,Male,$41.48,Mechanical Engineer,41
+Single,Female,$20.29,Civil Engineer,51
+Single,Female,$71.85,Mechanical Engineer,78
+Married,Male,$3.83,Civil Engineer,57
+Single,Female,$15.18,Civil Engineer,60
+Single,Male,$44.49,Mechanical Engineer,32
+Married,Male,$90.56,Software Developer,70
+Single,Female,$47.11,Software Developer,47
+Married,Female,$8.49,Mechanical Engineer,26
+Single,Male,$98.49,Engineer,76
+Married,Male,$12.65,Civil Engineer,35
+Married,Female,$84.38,Mechanical Engineer,35
+Single,Female,$36.63,Mechanical Engineer,20
+Married,Male,$54.03,Engineer,64
+Single,Male,$1.11,Software Developer,52
+Single,Male,$97.19,Software Developer,63
+Single,Female,$47.08,Engineer,40
+Married,Male,$46.70,Software Developer,50
+Single,Male,$16.42,Mechanical Engineer,74
+Single,Male,$22.68,Mechanical Engineer,62
+Married,Female,$31.79,Engineer,29
+Married,Male,$76.57,Civil Engineer,45
+Single,Male,$43.12,Mechanical Engineer,80
+Married,Male,$47.71,Engineer,43
+Married,Female,$93.64,Civil Engineer,66
+Single,Male,$5.04,Civil Engineer,20
+Married,Male,$67.29,Mechanical Engineer,31
+Single,Female,$87.69,Mechanical Engineer,74
+Single,Male,$36.18,Engineer,70
+Single,Female,$70.28,Engineer,22
+Married,Female,$50.70,Civil Engineer,79
+Single,Female,$9.35,Engineer,21
+Married,Male,$80.85,Engineer,24
+Single,Male,$5.75,Engineer,59
+Single,Male,$59.31,Mechanical Engineer,76
+Single,Male,$95.24,Civil Engineer,18
+Single,Female,$24.51,Engineer,24
+Married,Male,$67.00,Mechanical Engineer,75
+Married,Male,$80.93,Software Developer,50
+Married,Male,$24.53,Mechanical Engineer,66
+Single,Male,$94.99,Software Developer,77
+Married,Female,$29.56,Civil Engineer,33
+Single,Female,$64.49,Software Developer,18
+Married,Female,$37.53,Mechanical Engineer,81
+Married,Female,$98.24,Mechanical Engineer,67
+Single,Female,$60.29,Engineer,76
+Married,Female,$9.12,Mechanical Engineer,77
+Single,Female,$34.56,Mechanical Engineer,31
+Married,Female,$31.31,Mechanical Engineer,25
+Married,Female,$75.90,Software Developer,82
+Single,Female,$62.76,Civil Engineer,26
+Married,Male,$46.66,Engineer,72
+Married,Female,$7.19,Engineer,70
+Single,Male,$18.48,Software Developer,72
+Married,Male,$66.61,Engineer,70
+Married,Male,$0.27,Software Developer,57
+Single,Female,$96.48,Engineer,34
+Married,Male,$35.92,Software Developer,60
+Single,Female,$82.13,Civil Engineer,31
+Single,Male,$61.43,Software Developer,72
+Single,Male,$35.15,Engineer,45
+Single,Female,$32.26,Software Developer,27
+Married,Female,$92.11,Engineer,55
+Single,Female,$50.40,Civil Engineer,36
+Single,Female,$72.14,Software Developer,41
+Single,Male,$29.78,Engineer,83
+Married,Female,$97.51,Civil Engineer,83
+Married,Male,$25.80,Software Developer,52
+Single,Female,$49.15,Engineer,81
+Single,Male,$15.78,Software Developer,23
+Single,Male,$23.24,Civil Engineer,33
+Single,Female,$99.33,Civil Engineer,25
+Married,Male,$72.84,Engineer,32
+Married,Female,$44.39,Software Developer,24
+Single,Male,$84.38,Software Developer,52
+Single,Female,$62.74,Engineer,54
+Single,Female,$74.32,Engineer,34
+Married,Female,$31.25,Engineer,45
+Married,Female,$76.33,Software Developer,25
+Single,Female,$23.42,Engineer,23
+Married,Male,$57.79,Mechanical Engineer,48
+Single,Female,$97.22,Software Developer,54
+Married,Female,$88.04,Civil Engineer,61
+Single,Male,$82.08,Engineer,33
+Married,Female,$2.88,Civil Engineer,68
+Single,Male,$63.48,Civil Engineer,81
+Married,Male,$30.12,Engineer,28
+Married,Female,$50.35,Engineer,49
+Single,Female,$51.82,Engineer,76
+Married,Female,$62.64,Mechanical Engineer,82
+Single,Male,$70.43,Software Developer,56
+Single,Female,$33.57,Civil Engineer,59
+Married,Male,$10.35,Engineer,46
+Single,Female,$98.81,Mechanical Engineer,55
+Single,Female,$82.54,Mechanical Engineer,24
+Single,Male,$89.65,Mechanical Engineer,65
+Single,Male,$98.65,Engineer,41
+Married,Female,$30.15,Civil Engineer,48
+Married,Female,$66.57,Mechanical Engineer,30
+Married,Female,$73.98,Civil Engineer,63
+Single,Male,$53.90,Civil Engineer,29
+Single,Female,$88.49,Mechanical Engineer,33
+Single,Male,$98.87,Mechanical Engineer,46
+Married,Male,$0.34,Mechanical Engineer,36
+Single,Female,$36.51,Mechanical Engineer,69
+Married,Male,$60.37,Software Developer,73
+Single,Male,$22.88,Engineer,77
+Single,Male,$89.63,Engineer,73
+Married,Female,$11.03,Software Developer,76
+Single,Female,$33.01,Engineer,48
+Single,Male,$16.04,Engineer,41
+Married,Male,$91.02,Mechanical Engineer,30
+Married,Male,$72.64,Mechanical Engineer,19
+Married,Male,$21.22,Mechanical Engineer,30
+Married,Male,$39.68,Mechanical Engineer,52
+Single,Male,$15.55,Software Developer,23
+Single,Female,$66.13,Civil Engineer,67
+Single,Male,$9.21,Mechanical Engineer,28
+Single,Female,$29.01,Civil Engineer,45
+Single,Male,$33.18,Mechanical Engineer,68
+Married,Male,$41.86,Mechanical Engineer,62
+Single,Female,$71.78,Civil Engineer,25
+Married,Female,$90.22,Software Developer,71
+Married,Female,$51.89,Engineer,56
+Married,Male,$27.56,Mechanical Engineer,64
+Married,Female,$92.55,Engineer,42
+Married,Female,$44.97,Civil Engineer,26
+Married,Female,$25.37,Engineer,67
+Married,Male,$67.59,Mechanical Engineer,27
+Married,Male,$23.61,Civil Engineer,73
+Married,Female,$82.02,Software Developer,32
+Married,Female,$61.69,Mechanical Engineer,60
+Married,Female,$38.85,Mechanical Engineer,34
+Married,Female,$24.64,Engineer,60
+Single,Male,$10.17,Mechanical Engineer,33
+Single,Female,$74.70,Engineer,35
+Single,Female,$41.43,Engineer,64
+Single,Male,$15.12,Software Developer,71
+Married,Male,$74.79,Mechanical Engineer,51
+Single,Female,$61.53,Software Developer,29
+Married,Female,$67.10,Engineer,71
+Single,Female,$95.61,Engineer,81
+Single,Female,$9.37,Software Developer,63
+Married,Female,$45.02,Engineer,60
+Single,Male,$95.38,Civil Engineer,72
+Single,Female,$27.58,Engineer,24
+Married,Female,$67.90,Civil Engineer,18
+Single,Male,$32.71,Civil Engineer,31
+Married,Female,$22.82,Civil Engineer,51
+Married,Male,$57.97,Software Developer,43
+Married,Male,$57.96,Software Developer,82
+Married,Male,$5.23,Civil Engineer,68
+Single,Female,$36.70,Software Developer,52
+Single,Male,$36.13,Civil Engineer,29
+Single,Female,$52.37,Software Developer,64
+Married,Female,$84.45,Software Developer,54
+Single,Male,$27.58,Software Developer,76
+Married,Male,$3.86,Mechanical Engineer,22
+Married,Female,$53.48,Software Developer,63
+Married,Male,$38.60,Mechanical Engineer,29
+Single,Male,$75.86,Civil Engineer,28
+Single,Male,$95.80,Mechanical Engineer,52
+Single,Male,$16.69,Civil Engineer,57
+Married,Male,$47.28,Software Developer,55
+Single,Male,$64.83,Mechanical Engineer,70
+Married,Female,$79.29,Software Developer,21
+Single,Female,$60.22,Engineer,55
+Single,Female,$29.65,Software Developer,66
+Married,Female,$90.01,Mechanical Engineer,74
+Married,Female,$34.02,Engineer,73
+Single,Male,$38.95,Engineer,55
+Married,Female,$54.86,Engineer,41
+Married,Male,$98.02,Software Developer,64
+Married,Female,$7.73,Mechanical Engineer,71
+Single,Female,$27.77,Engineer,34
+Married,Male,$56.61,Civil Engineer,74
+Married,Female,$94.85,Engineer,48
+Single,Female,$5.49,Civil Engineer,35
+Single,Female,$86.48,Civil Engineer,35
+Single,Male,$34.28,Civil Engineer,41
+Single,Male,$44.56,Civil Engineer,28
+Single,Female,$93.70,Mechanical Engineer,32
+Single,Female,$59.19,Software Developer,84
+Married,Female,$60.73,Software Developer,56
+Married,Female,$74.62,Engineer,85
+Single,Male,$91.44,Mechanical Engineer,84
+Single,Male,$8.17,Software Developer,39
+Married,Male,$81.59,Civil Engineer,28
+Married,Female,$66.75,Mechanical Engineer,78
+Single,Male,$92.69,Software Developer,70
+Single,Female,$85.62,Software Developer,42
+Single,Female,$51.82,Software Developer,68
+Single,Female,$17.38,Software Developer,70
+Married,Female,$40.70,Mechanical Engineer,82
+Single,Female,$39.20,Civil Engineer,35
+Single,Male,$47.28,Software Developer,81
+Married,Male,$48.23,Mechanical Engineer,64
+Single,Male,$92.94,Civil Engineer,21
+Single,Male,$48.96,Software Developer,70
+Married,Female,$94.59,Mechanical Engineer,76
+Single,Male,$15.68,Engineer,33
+Single,Male,$12.98,Civil Engineer,55
+Married,Male,$12.94,Civil Engineer,79
+Married,Male,$51.69,Civil Engineer,49
+Married,Male,$76.03,Engineer,35
+Single,Male,$11.87,Software Developer,21
+Married,Male,$0.63,Civil Engineer,19
+Married,Female,$31.68,Software Developer,85
+Single,Female,$25.36,Engineer,33
+Married,Female,$74.30,Mechanical Engineer,81
+Single,Male,$82.16,Software Developer,43
+Single,Female,$74.65,Software Developer,56
+Single,Female,$70.70,Software Developer,40
+Single,Female,$12.02,Engineer,39
+Single,Male,$69.86,Engineer,75
+Married,Female,$86.21,Mechanical Engineer,61
+Married,Male,$7.84,Engineer,43
+Married,Male,$20.61,Software Developer,28
+Single,Male,$89.59,Software Developer,70
+Married,Female,$32.01,Mechanical Engineer,58
+Married,Male,$68.05,Engineer,55
+Married,Male,$46.85,Mechanical Engineer,53
+Single,Male,$76.79,Engineer,47
+Married,Female,$54.75,Civil Engineer,62
+Married,Female,$7.73,Software Developer,75
+Married,Male,$94.15,Civil Engineer,41
+Married,Male,$15.28,Civil Engineer,79
+Married,Male,$8.85,Civil Engineer,64
+Married,Female,$95.08,Mechanical Engineer,38
+Single,Male,$67.90,Civil Engineer,55
+Single,Male,$74.26,Mechanical Engineer,58
+Married,Female,$25.38,Software Developer,47
+Married,Male,$60.25,Mechanical Engineer,20
+Married,Male,$0.08,Engineer,38
+Married,Male,$48.67,Software Developer,54
+Single,Male,$83.22,Software Developer,55
+Married,Female,$27.73,Software Developer,66
+Married,Female,$84.69,Software Developer,50
+Single,Female,$57.12,Engineer,18
+Married,Female,$85.76,Engineer,68
+Married,Male,$40.21,Engineer,45
+Single,Male,$81.25,Software Developer,50
+Single,Male,$76.40,Engineer,34
+Married,Male,$76.91,Engineer,67
+Single,Female,$88.02,Mechanical Engineer,79
+Single,Female,$65.08,Software Developer,29
+Married,Male,$30.96,Software Developer,22
+Married,Female,$89.26,Engineer,36
+Single,Female,$2.51,Engineer,36
+Single,Male,$42.72,Mechanical Engineer,68
+Single,Male,$55.56,Engineer,74
+Single,Female,$68.90,Mechanical Engineer,23
+Married,Male,$99.68,Civil Engineer,56
+Single,Female,$66.91,Engineer,47
+Single,Male,$89.16,Mechanical Engineer,50
+Single,Female,$81.21,Software Developer,24
+Married,Male,$66.05,Civil Engineer,39
+Single,Female,$68.55,Software Developer,80
+Single,Female,$37.48,Civil Engineer,59
+Single,Male,$98.62,Mechanical Engineer,31
+Married,Male,$9.19,Engineer,72
+Married,Female,$12.50,Mechanical Engineer,46
+Married,Male,$75.57,Mechanical Engineer,27
+Single,Female,$55.48,Mechanical Engineer,37
+Single,Male,$51.15,Engineer,26
+Married,Female,$39.09,Civil Engineer,22
+Single,Female,$79.62,Civil Engineer,18
+Married,Male,$42.84,Software Developer,78
+Single,Male,$38.40,Engineer,41
+Single,Male,$56.44,Civil Engineer,49
+Married,Male,$45.55,Civil Engineer,24
+Single,Female,$33.08,Mechanical Engineer,71
+Single,Male,$37.84,Software Developer,22
+Single,Female,$4.79,Software Developer,23
+Married,Male,$88.46,Civil Engineer,63
+Married,Female,$93.87,Mechanical Engineer,79
+Single,Male,$64.89,Software Developer,77
+Married,Male,$13.58,Engineer,53
+Married,Male,$76.07,Software Developer,58
+Married,Female,$55.47,Engineer,54
+Married,Female,$36.19,Mechanical Engineer,85
+Married,Female,$51.30,Software Developer,20
+Single,Female,$98.33,Civil Engineer,26
+Married,Female,$92.51,Software Developer,24
+Married,Female,$70.81,Software Developer,18
+Single,Female,$63.05,Civil Engineer,65
+Married,Male,$32.42,Engineer,20
+Married,Male,$79.83,Engineer,56
+Married,Male,$89.24,Civil Engineer,35
+Single,Female,$11.44,Engineer,19
+Married,Female,$73.90,Civil Engineer,61
+Single,Male,$33.08,Mechanical Engineer,66
+Single,Female,$48.47,Software Developer,38
+Married,Male,$98.26,Software Developer,25
+Single,Female,$21.80,Engineer,55
+Married,Female,$94.40,Software Developer,56
+Married,Male,$67.60,Software Developer,82
+Single,Male,$83.23,Software Developer,31
+Single,Male,$34.23,Engineer,44
+Married,Female,$96.91,Civil Engineer,74
+Single,Male,$88.21,Software Developer,26
+Single,Female,$2.41,Civil Engineer,68
+Married,Male,$1.47,Software Developer,77
+Married,Male,$70.01,Software Developer,52
+Single,Female,$48.95,Engineer,72
+Single,Female,$33.17,Engineer,24
+Single,Female,$64.36,Mechanical Engineer,49
+Single,Female,$70.96,Mechanical Engineer,58
+Married,Female,$36.19,Engineer,82
+Married,Male,$5.84,Software Developer,84
+Single,Male,$10.10,Engineer,66
+Single,Male,$31.27,Civil Engineer,81
+Married,Male,$28.91,Civil Engineer,55
+Married,Male,$35.72,Mechanical Engineer,29
+Single,Female,$3.61,Engineer,29
+Single,Female,$0.34,Engineer,25
+Married,Male,$31.97,Engineer,21
+Married,Female,$1.03,Engineer,26
+Married,Male,$54.08,Software Developer,58
+Married,Female,$43.71,Engineer,78
+Single,Male,$68.97,Software Developer,30
+Single,Female,$5.35,Engineer,28
+Married,Female,$64.87,Engineer,30
+Married,Female,$49.63,Mechanical Engineer,31
+Single,Male,$41.05,Civil Engineer,77
+Single,Male,$88.20,Software Developer,82
+Single,Male,$16.95,Civil Engineer,84
+Married,Male,$9.35,Software Developer,67
+Married,Male,$41.66,Mechanical Engineer,61
+Married,Female,$63.73,Software Developer,61
+Single,Male,$68.79,Engineer,27
+Married,Male,$77.89,Civil Engineer,26
+Single,Female,$93.62,Civil Engineer,53
+Married,Male,$18.24,Engineer,42
+Single,Male,$31.71,Mechanical Engineer,30
+Married,Male,$91.46,Mechanical Engineer,42
+Single,Female,$51.66,Mechanical Engineer,20
+Single,Female,$42.30,Mechanical Engineer,29
+Married,Female,$9.57,Software Developer,34
+Married,Male,$64.85,Mechanical Engineer,69
+Single,Male,$9.24,Mechanical Engineer,26
+Single,Female,$46.55,Engineer,68
+Married,Male,$10.04,Mechanical Engineer,19
+Married,Male,$42.24,Civil Engineer,54
+Single,Male,$42.81,Engineer,28
+Married,Male,$95.30,Engineer,28
+Single,Male,$33.50,Software Developer,54
+Single,Female,$33.48,Mechanical Engineer,28
+Married,Male,$21.84,Software Developer,66
+Married,Male,$36.89,Civil Engineer,25
+Married,Male,$50.31,Engineer,21
+Married,Female,$79.53,Mechanical Engineer,42
+Married,Female,$68.99,Mechanical Engineer,34
+Married,Male,$95.70,Engineer,69
+Married,Female,$20.45,Software Developer,28
+Single,Male,$32.36,Software Developer,20
+Married,Female,$10.68,Software Developer,83
+Married,Female,$97.32,Software Developer,36
+Married,Female,$70.61,Civil Engineer,52
+Single,Male,$34.33,Software Developer,48
+Married,Male,$40.83,Software Developer,46
+Single,Male,$41.91,Engineer,53
+Married,Female,$38.55,Civil Engineer,76
+Single,Male,$89.11,Mechanical Engineer,81
+Single,Female,$90.87,Engineer,69
+Married,Male,$23.00,Software Developer,71
+Married,Female,$51.26,Engineer,24
+Single,Male,$57.95,Engineer,72
+Married,Female,$34.31,Software Developer,21
+Single,Female,$25.97,Software Developer,70
+Single,Male,$87.76,Mechanical Engineer,27
+Married,Female,$9.07,Mechanical Engineer,42
+Single,Female,$81.97,Software Developer,53
+Single,Female,$3.33,Engineer,69
+Married,Male,$7.83,Software Developer,47
+Married,Male,$99.83,Civil Engineer,44
+Single,Female,$1.45,Civil Engineer,80
+Married,Male,$58.13,Mechanical Engineer,47
+Married,Female,$11.82,Engineer,50
+Married,Male,$62.90,Software Developer,58
+Single,Female,$30.21,Mechanical Engineer,74
+Single,Female,$12.00,Engineer,67
+Married,Male,$32.60,Civil Engineer,56
+Single,Male,$58.88,Mechanical Engineer,76
+Married,Female,$96.66,Engineer,55
+Married,Female,$95.95,Engineer,36
+Single,Female,$78.75,Mechanical Engineer,48
+Single,Female,$65.23,Mechanical Engineer,21
+Married,Male,$24.11,Engineer,45
+Single,Female,$75.46,Civil Engineer,52
+Single,Female,$93.46,Mechanical Engineer,24
+Married,Male,$38.73,Mechanical Engineer,45
+Single,Female,$24.19,Software Developer,26
+Married,Male,$42.81,Civil Engineer,53
+Single,Female,$49.61,Civil Engineer,55
+Single,Male,$36.69,Software Developer,50
+Single,Male,$2.29,Mechanical Engineer,67
+Single,Male,$72.82,Mechanical Engineer,81
+Married,Male,$11.39,Civil Engineer,21
+Married,Male,$91.88,Civil Engineer,37
+Married,Male,$99.21,Software Developer,76
+Married,Male,$25.22,Engineer,71
+Single,Male,$14.62,Civil Engineer,53
+Single,Female,$46.04,Software Developer,54
+Single,Female,$68.41,Engineer,71
+Married,Male,$42.32,Civil Engineer,76
+Single,Female,$29.53,Engineer,44
+Single,Male,$18.67,Civil Engineer,22
+Single,Male,$98.33,Software Developer,48
+Single,Female,$89.27,Mechanical Engineer,42
+Single,Male,$34.89,Civil Engineer,62
+Single,Male,$96.94,Software Developer,30
+Married,Female,$39.84,Software Developer,81
+Single,Male,$13.95,Civil Engineer,55
+Married,Male,$77.11,Software Developer,31
+Single,Male,$2.60,Civil Engineer,48
+Single,Female,$55.44,Mechanical Engineer,46
+Married,Male,$30.66,Engineer,23
+Single,Female,$11.93,Engineer,74
+Married,Female,$78.64,Civil Engineer,50
+Married,Female,$11.46,Mechanical Engineer,69
+Married,Female,$88.44,Engineer,43
+Single,Male,$19.67,Civil Engineer,58
+Married,Male,$55.11,Mechanical Engineer,37
+Single,Female,$36.99,Software Developer,38
+Single,Male,$41.88,Mechanical Engineer,51
+Single,Female,$79.41,Software Developer,61
+Married,Male,$80.15,Civil Engineer,54
+Single,Female,$70.86,Civil Engineer,31
+Single,Male,$20.13,Civil Engineer,30
+Married,Female,$21.54,Mechanical Engineer,49
+Married,Male,$51.23,Engineer,50
+Single,Male,$49.50,Engineer,48
+Single,Male,$14.70,Software Developer,30
+Single,Male,$18.73,Engineer,56
+Married,Male,$61.83,Mechanical Engineer,56
+Married,Female,$21.26,Mechanical Engineer,85
+Married,Female,$97.64,Engineer,57
+Single,Female,$48.80,Software Developer,26
+Married,Female,$65.11,Civil Engineer,65
+Single,Female,$62.10,Mechanical Engineer,31
+Single,Male,$65.09,Software Developer,30
+Married,Female,$85.29,Engineer,18
+Single,Male,$46.58,Civil Engineer,38
+Married,Female,$78.08,Engineer,45
+Single,Female,$58.49,Software Developer,54
+Single,Female,$96.89,Civil Engineer,50
+Single,Male,$33.36,Civil Engineer,71
+Single,Male,$19.75,Mechanical Engineer,36
+Single,Female,$93.21,Engineer,43
+Single,Female,$76.30,Software Developer,45
+Married,Male,$62.00,Civil Engineer,67
+Single,Female,$82.11,Civil Engineer,42
+Single,Male,$28.74,Engineer,34
+Single,Female,$48.58,Software Developer,32
+Married,Male,$23.98,Engineer,58
+Single,Male,$58.83,Civil Engineer,32
+Married,Male,$1.72,Software Developer,75
+Married,Male,$11.78,Civil Engineer,20
+Single,Female,$99.59,Engineer,24
+Single,Male,$27.94,Software Developer,22
+Single,Male,$33.57,Software Developer,72
+Single,Male,$63.52,Mechanical Engineer,29
+Married,Male,$71.33,Software Developer,37
+Married,Male,$18.00,Engineer,22
+Single,Female,$8.59,Engineer,24
+Married,Female,$95.64,Engineer,50
+Married,Male,$84.41,Software Developer,68
+Single,Male,$87.51,Civil Engineer,76
+Single,Female,$53.85,Civil Engineer,60
+Married,Male,$8.51,Engineer,73
+Married,Male,$81.11,Mechanical Engineer,47
+Married,Female,$71.91,Civil Engineer,52
+Single,Male,$98.36,Software Developer,64
+Married,Male,$2.01,Engineer,65
+Married,Male,$64.85,Mechanical Engineer,52
+Married,Male,$98.42,Mechanical Engineer,75
+Single,Female,$83.95,Software Developer,72
+Single,Female,$24.48,Software Developer,42
+Married,Male,$97.78,Civil Engineer,82
+Single,Male,$16.50,Software Developer,19
+Married,Female,$25.76,Mechanical Engineer,65
+Single,Male,$13.51,Software Developer,84
+Married,Female,$90.19,Civil Engineer,68
+Married,Female,$91.39,Civil Engineer,55
+Single,Male,$77.22,Mechanical Engineer,54
+Single,Male,$70.45,Software Developer,21
+Single,Female,$49.73,Mechanical Engineer,29
+Married,Female,$70.69,Software Developer,61
+Single,Male,$38.45,Civil Engineer,77
+Married,Female,$53.97,Engineer,54
+Single,Male,$5.56,Software Developer,40
+Single,Female,$28.26,Engineer,40
+Single,Female,$97.39,Mechanical Engineer,44
+Married,Male,$50.80,Engineer,33
+Married,Male,$46.81,Mechanical Engineer,68
+Married,Female,$49.79,Software Developer,24
+Married,Male,$84.59,Software Developer,69
+Single,Male,$39.77,Software Developer,65
+Single,Male,$67.28,Mechanical Engineer,61
+Single,Male,$50.93,Mechanical Engineer,71
+Married,Female,$97.95,Software Developer,35
+Single,Male,$82.13,Software Developer,34
+Married,Female,$79.97,Software Developer,37
+Single,Male,$73.46,Mechanical Engineer,38
+Single,Male,$82.43,Civil Engineer,44
+Single,Male,$71.32,Mechanical Engineer,78
+Single,Male,$6.33,Mechanical Engineer,63
+Married,Male,$46.22,Engineer,40
+Married,Male,$25.95,Mechanical Engineer,74
+Single,Female,$35.72,Engineer,81
+Married,Male,$97.69,Software Developer,66
+Single,Female,$42.22,Software Developer,27
+Married,Female,$45.13,Software Developer,78
+Single,Female,$7.91,Software Developer,77
+Married,Female,$1.26,Engineer,47
+Married,Female,$0.31,Software Developer,72
+Single,Male,$10.60,Mechanical Engineer,40
+Married,Female,$28.57,Mechanical Engineer,19
+Single,Male,$37.26,Mechanical Engineer,42
+Single,Male,$37.77,Civil Engineer,47
+Married,Female,$93.61,Software Developer,40
+Married,Male,$59.88,Engineer,27
+Married,Male,$38.85,Civil Engineer,18
+Single,Female,$27.82,Civil Engineer,78
+Single,Female,$44.31,Engineer,75
+Single,Female,$82.28,Engineer,72
+Single,Female,$67.66,Engineer,61
+Married,Male,$83.28,Engineer,61
+Single,Male,$50.95,Engineer,78
+Married,Male,$42.35,Engineer,57
+Married,Male,$73.47,Mechanical Engineer,65
+Married,Male,$58.80,Civil Engineer,35
+Single,Male,$52.10,Mechanical Engineer,44
+Married,Female,$37.34,Civil Engineer,29
+Married,Male,$63.85,Engineer,21
+Married,Female,$99.14,Software Developer,22
+Married,Male,$19.45,Engineer,62
+Single,Male,$69.14,Engineer,41
+Married,Female,$37.69,Mechanical Engineer,18
+Married,Female,$40.23,Civil Engineer,62
+Married,Male,$11.08,Software Developer,79
+Single,Female,$93.83,Mechanical Engineer,22
+Married,Male,$53.11,Engineer,78
+Single,Female,$37.68,Mechanical Engineer,62
+Married,Male,$70.77,Engineer,68
+Married,Female,$52.39,Mechanical Engineer,67
+Single,Female,$79.27,Mechanical Engineer,43
+Married,Female,$10.77,Software Developer,67
+Single,Male,$28.51,Mechanical Engineer,40
+Married,Female,$12.08,Engineer,45
+Single,Male,$98.15,Civil Engineer,69
+Single,Female,$68.97,Civil Engineer,85
+Single,Male,$50.35,Civil Engineer,29
+Single,Female,$5.05,Software Developer,35
+Single,Male,$89.34,Mechanical Engineer,20
+Married,Male,$9.55,Engineer,33
+Married,Female,$99.04,Mechanical Engineer,39
+Married,Female,$33.05,Engineer,45
+Married,Male,$90.54,Software Developer,59
+Single,Male,$71.70,Engineer,65
+Single,Female,$0.60,Mechanical Engineer,81
+Single,Female,$64.62,Software Developer,71
+Single,Female,$18.58,Software Developer,56
+Married,Female,$76.28,Civil Engineer,82
+Single,Female,$2.70,Software Developer,19
+Married,Female,$36.63,Engineer,41
+Married,Male,$2.92,Engineer,79
+Single,Male,$28.42,Software Developer,43
+Married,Male,$54.71,Engineer,74
+Single,Male,$57.44,Software Developer,39
+Single,Male,$93.13,Software Developer,20
+Married,Male,$70.18,Civil Engineer,21
+Married,Male,$1.19,Mechanical Engineer,49
+Single,Female,$28.08,Engineer,78
+Married,Female,$54.61,Software Developer,31
+Single,Male,$91.15,Mechanical Engineer,40
+Single,Male,$70.22,Civil Engineer,56
+Single,Male,$74.14,Civil Engineer,42
+Single,Female,$90.45,Civil Engineer,37
+Married,Male,$22.48,Civil Engineer,80
+Married,Female,$72.61,Software Developer,32
+Single,Female,$44.60,Engineer,40
+Married,Female,$17.14,Software Developer,30
+Married,Male,$58.67,Software Developer,53
+Married,Male,$52.98,Civil Engineer,68
+Single,Male,$10.62,Civil Engineer,29
+Single,Male,$30.29,Engineer,57
+Married,Female,$23.93,Engineer,43
+Single,Female,$18.19,Civil Engineer,30
+Married,Male,$6.14,Software Developer,85
+Married,Female,$9.44,Mechanical Engineer,25
+Married,Male,$54.06,Engineer,69
+Single,Female,$8.90,Engineer,32
+Married,Female,$74.16,Engineer,54
+Married,Male,$81.82,Software Developer,42
+Married,Male,$98.68,Engineer,41
+Married,Male,$54.18,Software Developer,54
+Single,Female,$1.48,Mechanical Engineer,60
+Married,Female,$61.24,Mechanical Engineer,62
+Single,Male,$48.71,Civil Engineer,84
+Single,Female,$53.09,Software Developer,78
+Single,Male,$7.66,Software Developer,81
+Married,Female,$21.66,Civil Engineer,43
+Single,Female,$44.72,Mechanical Engineer,82
+Married,Female,$21.40,Software Developer,84
+Married,Female,$7.92,Engineer,54
+Single,Female,$63.78,Mechanical Engineer,72
+Single,Male,$12.26,Mechanical Engineer,20
+Single,Female,$74.49,Mechanical Engineer,52
+Married,Female,$28.70,Civil Engineer,20
+Married,Female,$37.24,Engineer,51
+Single,Male,$35.64,Engineer,82
+Married,Female,$26.40,Engineer,40
+Married,Male,$10.08,Engineer,60
+Married,Female,$36.92,Civil Engineer,25
+Single,Female,$17.95,Mechanical Engineer,81
+Married,Female,$1.17,Civil Engineer,74
+Single,Male,$97.62,Mechanical Engineer,34
+Married,Male,$94.19,Engineer,71
+Single,Male,$79.47,Software Developer,81
+Single,Female,$82.64,Software Developer,55
+Married,Female,$47.85,Engineer,27
+Single,Male,$60.05,Software Developer,50
+Married,Female,$44.22,Software Developer,67
+Single,Male,$7.32,Civil Engineer,73
+Married,Male,$13.33,Mechanical Engineer,69
+Married,Female,$77.88,Mechanical Engineer,67
+Married,Male,$21.60,Mechanical Engineer,55
+Married,Female,$18.85,Civil Engineer,84
+Single,Male,$59.23,Mechanical Engineer,77
+Married,Male,$55.42,Software Developer,32
+Single,Female,$3.95,Civil Engineer,21
+Married,Female,$88.71,Engineer,19
+Single,Male,$36.44,Engineer,55
+Single,Female,$26.15,Civil Engineer,22
+Married,Male,$6.83,Mechanical Engineer,80
+Married,Female,$52.51,Engineer,26
+Single,Female,$33.74,Software Developer,38
+Married,Female,$16.24,Software Developer,56
+Married,Female,$6.62,Software Developer,83
+Married,Male,$31.96,Software Developer,78
+Single,Female,$43.11,Civil Engineer,33
+Single,Female,$98.78,Civil Engineer,61
+Single,Male,$94.50,Software Developer,64
+Married,Female,$51.64,Civil Engineer,43
+Married,Male,$46.29,Engineer,76
+Single,Female,$7.48,Software Developer,22
+Married,Male,$83.16,Engineer,46
+Married,Female,$86.73,Mechanical Engineer,28
+Married,Male,$35.77,Software Developer,26
